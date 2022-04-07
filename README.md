@@ -8,6 +8,10 @@ A deep learning based approach to detect vulnerability in C/C++ source code.
 
 ## Resources
 **Pre-training Dataset:** C/C++ files from 100 GitHub repositories ([Link](https://drive.google.com/drive/folders/1xjMZR8r7DhtL1Yc8mqyaTGBS6YTjsy_E?usp=sharing))
+
 **Fine-tuning Dataset:** [Draper VDISC Dataset](https://osf.io/d45bw/)
+
 **Model:** [DistilBERT](https://arxiv.org/abs/1910.01108)
+
 **Code:** Project code is available on [this colab notebook](https://colab.research.google.com/drive/1ZNUaFdaPRUBa3vClAeXmv1SQFbe5ahaN?usp=sharing)
+
