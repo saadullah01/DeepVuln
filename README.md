@@ -15,3 +15,4 @@ A deep learning based approach to detect vulnerability in C/C++ source code.
 
 **Code:** Project code is available on [this colab notebook](https://colab.research.google.com/drive/1ZNUaFdaPRUBa3vClAeXmv1SQFbe5ahaN?usp=sharing)
 
+**Progress Tracker:** Progress of the project can be tracked through this [GitHub Project](https://github.com/saadullah01/DeepVuln/projects/1)
