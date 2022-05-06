@@ -17,6 +17,6 @@ A deep learning based approach to detect vulnerability in C/C++ source code.
 
 **Progress Tracker:** Progress of the project can be tracked through this [GitHub Project](https://github.com/saadullah01/DeepVuln/projects/1)
 
-### References to Online Tutorials
+## References to Online Tutorials
 * [Pre-traing BERT](https://huggingface.co/blog/how-to-train)
 * [Fine tunning](https://skimai.com/fine-tuning-bert-for-sentiment-analysis/)
